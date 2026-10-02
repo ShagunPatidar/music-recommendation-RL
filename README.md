@@ -126,4 +126,5 @@ Spotify/YouTube integration, larger datasets, user accounts, collaborative filte
 ## 19. Conclusion
 The project shows a genuine RL loop — states, actions, rewards, a Q-table, ε-greedy exploration and the Bellman-style Q-update — applied to music personalization, with a UI that makes the learning visible and easy to explain.
 
-*Song metadata (titles, artists, approximate durations) is for demonstration only; no audio is included or streamed.*
+## 20. Live Demo
+https://music-recommendation-rl.onrender.com
