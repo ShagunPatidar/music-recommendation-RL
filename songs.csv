@@ -1,0 +1,57 @@
+song_id,song,artist,genre,mood,duration
+1,Perfect,Ed Sheeran,Pop,Romantic,4:23
+2,Blinding Lights,The Weeknd,Pop,Energetic,3:20
+3,Happy,Pharrell Williams,Pop,Happy,3:53
+4,Someone Like You,Adele,Pop,Sad,4:45
+5,Shape of You,Ed Sheeran,Pop,Energetic,3:54
+6,Levitating,Dua Lipa,Pop,Happy,3:23
+7,Love Story,Taylor Swift,Pop,Romantic,3:55
+8,drivers license,Olivia Rodrigo,Pop,Sad,4:02
+9,Believer,Imagine Dragons,Rock,Energetic,3:24
+10,Bohemian Rhapsody,Queen,Rock,Energetic,5:55
+11,Don't Stop Believin',Journey,Rock,Happy,4:11
+12,Yellow,Coldplay,Rock,Romantic,4:29
+13,Numb,Linkin Park,Rock,Sad,3:07
+14,Fix You,Coldplay,Rock,Sad,4:55
+15,Wish You Were Here,Pink Floyd,Rock,Relaxed,5:34
+16,Seven Nation Army,The White Stripes,Rock,Energetic,3:52
+17,Weightless,Marconi Union,Lo-fi,Relaxed,8:00
+18,Aruarian Dance,Nujabes,Lo-fi,Relaxed,3:50
+19,Feather,Nujabes,Lo-fi,Focus,4:10
+20,Resonance,HOME,Lo-fi,Focus,3:32
+21,Sunset Lover,Petit Biscuit,Lo-fi,Romantic,3:58
+22,Snowfall,Oneheart,Lo-fi,Sad,2:55
+23,Affection,Jinsang,Lo-fi,Happy,2:15
+24,Coffee,beabadoobee,Lo-fi,Romantic,2:29
+25,Clair de Lune,Claude Debussy,Classical,Relaxed,5:00
+26,Moonlight Sonata,Ludwig van Beethoven,Classical,Sad,6:00
+27,Spring (The Four Seasons),Antonio Vivaldi,Classical,Happy,3:30
+28,Canon in D,Johann Pachelbel,Classical,Romantic,5:30
+29,Symphony No. 5,Ludwig van Beethoven,Classical,Energetic,7:20
+30,Gymnopedie No. 1,Erik Satie,Classical,Focus,3:10
+31,Air on the G String,Johann Sebastian Bach,Classical,Focus,5:20
+32,Flight of the Bumblebee,Rimsky-Korsakov,Classical,Energetic,1:20
+33,Lose Yourself,Eminem,Hip-Hop,Energetic,5:26
+34,HUMBLE.,Kendrick Lamar,Hip-Hop,Energetic,2:57
+35,SICKO MODE,Travis Scott,Hip-Hop,Energetic,5:12
+36,Juicy,The Notorious B.I.G.,Hip-Hop,Happy,5:02
+37,Sunflower,Post Malone,Hip-Hop,Happy,2:38
+38,Lucid Dreams,Juice WRLD,Hip-Hop,Sad,3:59
+39,Hotline Bling,Drake,Hip-Hop,Romantic,4:27
+40,Mask Off,Future,Hip-Hop,Focus,3:24
+41,Titanium,David Guetta ft. Sia,EDM,Energetic,4:05
+42,Wake Me Up,Avicii,EDM,Happy,4:07
+43,Levels,Avicii,EDM,Energetic,5:38
+44,Animals,Martin Garrix,EDM,Energetic,5:03
+45,Strobe,deadmau5,EDM,Focus,10:37
+46,Closer,The Chainsmokers,EDM,Romantic,4:21
+47,Faded,Alan Walker,EDM,Sad,3:32
+48,Don't You Worry Child,Swedish House Mafia,EDM,Happy,3:32
+49,Tum Hi Ho,Arijit Singh,Bollywood,Romantic,4:22
+50,Kal Ho Naa Ho,Sonu Nigam,Bollywood,Sad,5:20
+51,Gerua,Arijit Singh,Bollywood,Romantic,5:45
+52,Channa Mereya,Arijit Singh,Bollywood,Sad,4:49
+53,Kun Faya Kun,A. R. Rahman,Bollywood,Relaxed,7:50
+54,Badtameez Dil,Benny Dayal,Bollywood,Happy,4:10
+55,Zinda,Siddharth Mahadevan,Bollywood,Energetic,3:40
+56,Kabira,Tochi Raina,Bollywood,Relaxed,3:43

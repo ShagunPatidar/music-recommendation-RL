@@ -1,0 +1,550 @@
+{
+  "alpha": 0.3,
+  "gamma": 0.6,
+  "epsilon": 1.0,
+  "steps": 0,
+  "q": {
+    "Happy|Start": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Happy|Liked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Happy|Completed": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Happy|Skipped": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Happy|Disliked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Sad|Start": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Sad|Liked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Sad|Completed": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Sad|Skipped": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Sad|Disliked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Relaxed|Start": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Relaxed|Liked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Relaxed|Completed": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Relaxed|Skipped": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Relaxed|Disliked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Energetic|Start": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Energetic|Liked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Energetic|Completed": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Energetic|Skipped": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Energetic|Disliked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Focus|Start": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Focus|Liked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Focus|Completed": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Focus|Skipped": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Focus|Disliked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Romantic|Start": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Romantic|Liked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Romantic|Completed": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Romantic|Skipped": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    },
+    "Romantic|Disliked": {
+      "Pop": 0.0,
+      "Rock": 0.0,
+      "Lo-fi": 0.0,
+      "Classical": 0.0,
+      "Hip-Hop": 0.0,
+      "EDM": 0.0,
+      "Bollywood": 0.0
+    }
+  },
+  "visits": {
+    "Happy|Start": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Happy|Liked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Happy|Completed": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Happy|Skipped": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Happy|Disliked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Sad|Start": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Sad|Liked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Sad|Completed": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Sad|Skipped": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Sad|Disliked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Relaxed|Start": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Relaxed|Liked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Relaxed|Completed": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Relaxed|Skipped": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Relaxed|Disliked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Energetic|Start": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Energetic|Liked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Energetic|Completed": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Energetic|Skipped": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Energetic|Disliked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Focus|Start": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Focus|Liked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Focus|Completed": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Focus|Skipped": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Focus|Disliked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Romantic|Start": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Romantic|Liked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Romantic|Completed": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Romantic|Skipped": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    },
+    "Romantic|Disliked": {
+      "Pop": 0,
+      "Rock": 0,
+      "Lo-fi": 0,
+      "Classical": 0,
+      "Hip-Hop": 0,
+      "EDM": 0,
+      "Bollywood": 0
+    }
+  }
+}
